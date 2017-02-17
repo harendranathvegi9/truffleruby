@@ -38,7 +38,7 @@ def mavenLib(mavenDep, sha1, sourceSha1, mavenLibLicense):
 
 suite = {
     "mxversion": "5.59.0",
-    "name": "jrubytruffle",
+    "name": "truffleruby",
 
     "imports": {
         "suites": [
