@@ -23,6 +23,7 @@ nbproject/private
 # C extensions
 lib/cext/ruby.su
 lib/mri/openssl.su
+*.c.processed.c
 
 truffleruby/src/main/c/**/Makefile
 truffleruby/src/main/c/**/*.bc
